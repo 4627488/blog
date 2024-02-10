@@ -8,6 +8,8 @@ license:
 hidden: false
 comments: true
 draft: false
+categories:
+    - CTF
 ---
 
 ## Week2 - Misc - ez_brainfuzz
