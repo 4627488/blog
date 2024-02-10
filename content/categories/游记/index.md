@@ -1,5 +1,5 @@
 ---
-title: Example Category
+title: 游记
 description: A description of this category
 image:
 

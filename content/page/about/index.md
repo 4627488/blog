@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "关于我"
 description: 
 date: 2024-02-10T11:35:24Z
 image: 
@@ -8,6 +8,12 @@ license:
 hidden: false
 comments: true
 draft: false
+menu: 
+    main:
+        name: 关于我
+        weight: 3
+        params:
+            icon: user-scan
 ---
 
 <h2> Hey there! I'm 4627488.</h2>

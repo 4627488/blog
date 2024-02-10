@@ -2,7 +2,7 @@
 title: "SBCTF wintercamp2024 个人部分wp"
 description: 
 date: 2024-02-02T19:00:00Z
-image: 
+image: 110473958_p0.jpg
 math: 
 license: 
 hidden: false

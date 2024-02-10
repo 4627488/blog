@@ -1,11 +1,11 @@
 # Configure main menu and social menu
-[[main]]
-identifier = "home"
-name = "Home"
-url = "/about/"
-[main.params]
-icon = "home"
-newtab = false
+# [[main]]
+# identifier = "about"
+# name = "About Me"
+# url = "/about/"
+# [main.params]
+# icon = "user-scan"
+# newtab = false
 
 [[social]]
 identifier = "github"
