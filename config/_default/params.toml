@@ -26,7 +26,7 @@ readingTime = true
 
 [article.license]
 enabled = true
-default = "Licensed under CC BY-NC-SA 4.0"
+default = "署名-非商业性使用-相同方式共享 4.0 国际"
 
 ## Widgets
 [[widgets.homepage]]
@@ -74,8 +74,8 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = false
-provider = "disqus"
+enabled = true
+provider = "cusdis"
 
 [comments.disqusjs]
 shortname = ""
@@ -144,6 +144,6 @@ clientID = ""
 clientSecret = ""
 
 [comments.cusdis]
-host = ""
-id = ""
+host = "https://cusdis.com"
+id = "1ba96341-074f-4a44-8d44-15dec1f4d850"
 since = 2020
